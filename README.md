@@ -1,2 +1,0 @@
-# pricelist
-Price list test
